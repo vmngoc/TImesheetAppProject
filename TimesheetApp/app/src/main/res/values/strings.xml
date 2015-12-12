@@ -1,0 +1,31 @@
+<resources>
+    <!-- Strings related to app bar -->
+    <string name="app_name">Work Time Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_new_entry">Add new time entry</string>
+
+    <!-- Strings related to login -->
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registered? Login Here.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="btn_continue">CONTINUE</string>
+    <string name="name">Fullname</string>
+    <string name="title_activity_time_record">Time Record</string>
+
+    <!-- Strings related to time tracking -->
+    <string name="view_clock_in">Last in: </string>
+    <string name="view_clock_out">Last out: </string>
+    <string name="btn_clock_in">CLOCK IN</string>
+    <string name="btn_clock_out">CLOCK OUT</string>
+    <string name="default_time_view">00h 00m 00s</string>
+    <string name="first_column_heading">In</string>
+    <string name="second_column_heading">Out</string>
+    <string name="third_column_heading">Length</string>
+    <string name="done">Done</string>
+</resources>
